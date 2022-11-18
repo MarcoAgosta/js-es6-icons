@@ -1,0 +1,24 @@
+.my-box-select{
+    background-color: lightblue;
+    
+}
+.my-card{
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+.my-box-card{
+    background-color: lightgray;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.orange{
+    color: orange;
+}
+.my-card i{
+    font-size: 2rem;
+
+}
